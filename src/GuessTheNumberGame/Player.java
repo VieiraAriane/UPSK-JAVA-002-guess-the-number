@@ -12,6 +12,9 @@ public abstract class Player {
     public void setName(String name) {
         this.name = name;
     }
+    public void setGuesses(List<Integer> guesses) {
+        this.guesses = guesses;
+    }
 
     public List<Integer> getGuess() {
 

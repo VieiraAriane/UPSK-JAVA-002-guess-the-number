@@ -1,6 +1,6 @@
-import java.util.Collections;
+
 import java.util.Random;
-import java.util.Scanner;
+
 
 public class ComputerPlayer extends Player {
     protected Random random;
